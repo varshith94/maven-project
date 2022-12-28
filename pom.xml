@@ -100,7 +100,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>anil Releases Nexus Repository</name>
-	      <url>http://192.168.56.6:8081/repository/anil-release/</url>
+	      <url>http://192.168.56.6:8081/repository/suraj-playboy-consult-with-summaram/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
