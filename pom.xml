@@ -5,7 +5,7 @@
 	<groupId>com.mt</groupId>
 	<artifactId>maven-web-application</artifactId>
 	<packaging>war</packaging>
-	<version>0.0.4</version>
+	<version>0.0.4-SNAPSHOT</version>
 	
 	<name>maven-web-application</name>
 
@@ -100,13 +100,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>anil Releases Nexus Repository</name>
-	      <url>http://192.168.56.6:8081/repository/suraj-playboy-consult-with-summaram/</url>
+	      <url>http://192.168.56.7:8081/repository/repo1/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>anil Snapshot Nexus Repository </name>
-	      <url>http://192.168.56.6:8081/repository/anil-snapshot/</url>
+	      <url>http://192.168.56.7:8081/repository/repo1-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
