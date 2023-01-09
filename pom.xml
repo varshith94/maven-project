@@ -100,13 +100,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>anil Releases Nexus Repository</name>
-	      <url>http://192.168.56.7:8081/repository/repo1/</url>
+	      <url>http://192.168.56.6:8081/repository/divya/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>anil Snapshot Nexus Repository </name>
-	      <url>http://192.168.56.7:8081/repository/repo1-snapshot/</url>
+	      <url>http://192.168.56.6:8081/repository/divya-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
