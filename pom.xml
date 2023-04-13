@@ -5,7 +5,7 @@
 	<groupId>com.mt</groupId>
 	<artifactId>maven-web-application</artifactId>
 	<packaging>war</packaging>
-	<version>1.0</version>
+	<version>SNAPSHOT</version>
 	
 	<name>maven-web-application</name>
 
@@ -105,7 +105,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>anil Snapshot Nexus Repository </name>
-	      <url>http://192.168.56.16:8081/repository/mavenproject-3/</url>
+	      <url>http://192.168.56.9:8081/repository/devopsrk/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
